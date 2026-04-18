@@ -26,8 +26,10 @@ Before running the program, make sure you have:
 3. Compile the program.
 
 Using g++:
-``` bash
+
+```bash
 g++ main.cpp Clinic.cpp Functions.cpp Patient.cpp Queue.cpp -o hospital
+```
 
 ### **Usage**
 
