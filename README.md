@@ -39,11 +39,12 @@ Run the program:
 
 After starting, the program:
 
-loads patient data from patient.csv
-lets you choose a clinic department
-allows you to add patients, add critical patients, remove patients for operation, cancel patients, and list the current queue
-writes activity and error messages to report.txt
-Input Format
+- Loads patient data from patient.csv
+- Lets you choose a clinic department
+- Allows you to add patients, add critical patients, remove patients for operation, cancel patients, and list the current queue
+- Writes activity and error messages to report.txt
+
+### **Input Format**
 
 The patient.csv file should use this format:
 
@@ -52,8 +53,21 @@ HC,Bernie,Sanders,2
 PC,Yosemite,Sam,1
 PSC,Bugs,Bunny,3
 
+
 Clinic codes:
 
-HC = Heart Clinic
-PC = Pulmonary Clinic
-PSC = Plastic Surgery Clinic
+- HC = Heart Clinic
+- PC = Pulmonary Clinic
+- PSC = Plastic Surgery Clinic
+
+## **Contact**
+
+For questions, feedback, or collaboration, feel free to reach out:
+
+- GitHub: Cadzen05 (https://github.com/Cadzen05)
+- Email: cadzen05@gmail.com
+- LinkedIn: Caden Cunningham (www.linkedin.com/in/caden-cunningham-78a382404)
+
+## **Acknowledgements**
+
+This project was inspired by the idea of designing a hospital patient queue management, and was developed to strengthen my understanding of C++, object-oriented programming, file I/O, and custom data structures.
