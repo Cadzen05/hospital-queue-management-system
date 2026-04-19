@@ -1,4 +1,4 @@
-# hospital-queue-management-system
+# **Hospital Queue Management System**
 C++ hospital queue management system with priority handling for critical patients, file I/O, and object-oriented design
 
 ## **Features**
